@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  paul:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-15T05:35:56.209699824Z"
+    description: A Helm chart for Kubernetes
+    digest: 1ed2ef0178b708a94014f7a142cc9b2e3777111690d993bff5d23cd0dd26f957
+    name: paul
+    type: application
+    urls:
+    - paul-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-15T05:35:56.209237265Z"
